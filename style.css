@@ -5,7 +5,7 @@
     font-family:'Hanken Grotesk',sans-serif;
 }
 main{
-    width: 80%;
+    width: 50%;
     margin: 20% auto;
     display: flex;
     flex-direction: row;
@@ -95,7 +95,7 @@ main{
     left: 10%;
 }
 .skills{
-    margin-top: 20%;
+    margin-top: 50px;
 }
 #continue{
     width: 80%;
@@ -139,13 +139,13 @@ main{
         width: 90%;
     }
     .rating{
-        width: 100%;
+        width: 110%;
         margin-top: -25%;
         margin-bottom: 5%;
         left: -5%;
     }
     .summary{
-        width: 90%;
+        width: 100%;
         height: 400px;
     }
     .skills{
